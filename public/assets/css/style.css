@@ -1,0 +1,203 @@
+body{
+    font-family:Montserrat;
+    background:#fff;
+}
+.container-product{
+    margin:auto;
+    width: 95%;
+}
+a{
+    all:unset;
+    cursor: pointer;
+    text-decoration: none;
+    color:#343a40;
+}
+a:hover{
+
+    text-decoration: none;
+    color:#343a40;
+  
+}
+.fw-700{
+    font-weight: 700;
+}
+.fw-600{
+    font-weight: 600;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-60{
+    font-size: 60px;
+}
+.font-50{
+    font-size: 50px;
+}
+.font-40{
+    font-size: 40px;
+}
+.font-36{
+    font-size: 36px;
+}
+.font-24{
+    font-size: 24px;
+}
+.text-white{
+    color: #ffffff !important;
+}
+
+.text-dark{
+    color: #183B56 !important;
+}
+.text-rgba{
+    color: rgba(24, 59, 86, 0.7);
+}
+.bg-pink02{
+    background-color: #C56A72 !important;
+}
+.bg-yellow{
+    background-color: #E86239 !important;
+}
+.bg-green-old{
+    background-color: #606651 !important;
+}
+.bg-brown{
+    background-color: #EDAB7B !important;
+}
+
+.text-brown{
+    color: #EDAB7B !important;
+}
+
+.bg-dark{
+    background-color: #343a40 !important;
+}
+.br-28{
+    border-radius: 28px;
+}
+.br-24{
+    border-radius: 24px;
+}
+.br-right{
+    border-right: 1px solid #dadada;
+}
+.ws-nowrap{
+    white-space: nowrap;
+}
+.navbar-brand{
+cursor: pointer;
+}
+
+.nav-link{
+    margin-right: 20px;
+    padding-top:10px;
+  
+}
+
+
+.info-panel-group{
+   margin-top:50px;
+}
+
+.info-panel{
+    border:2px solid #ccc;
+    border-radius:10px;
+    background-color:#ffffff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.info-panel:hover{
+    box-shadow:0 3px 20px rgba(0,0,0,0.5);
+
+}
+
+.info-panel img{
+   max-width: 100px;
+    max-height: 80px;
+
+    /* float:left; */
+}
+
+.info-panel h4{
+    font-size: 16px;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.info-panel p{
+    font-size:14px;
+    color:#555555;
+    margin-top: -5px;
+}
+
+.form-check{
+    font-size: 0.8em;
+}
+
+.page{
+    margin-top: 1000px;
+}
+
+.img-box{
+    height:230px
+}
+
+.product-box:hover{
+    box-shadow:0 3px 20px rgba(0,0,0,0.5);
+    cursor: pointer;
+    border-radius:5px;
+}
+
+.photo-product{
+    max-height: 225px;
+    max-width: 100%; 
+    display: block;
+ 
+}
+
+.hubungi{
+    margin-top: 100px;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.form-control{
+    padding:10px;
+}
+
+.img-maps{
+    width:100%;
+    height: auto;
+}
+
+#img1,
+#img2,
+#img3,
+#img4 {
+cursor: pointer;
+}
+
+#img1:hover,
+#img2:hover,
+#img3:hover,
+#img4:hover {
+padding: 5px;
+}
+
+iframe{
+    max-width: 100%;
+    max-height: 30%;
+}
+footer{
+    color:#777;
+}
